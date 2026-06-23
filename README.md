@@ -137,6 +137,7 @@ I enjoy creating clean, maintainable, and user-friendly applications while follo
 * Developed REST APIs.
 * Created responsive UI/UX solutions.
 * Integrated third-party services and payment gateways.
+
 **Grassy** | March 2026 – now
 ---
 
